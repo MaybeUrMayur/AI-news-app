@@ -4,6 +4,14 @@
 
 The app reads through the news snippets and scores them out of 100 based on their clickbait nature, sensationalism, and likelihood of being genuine, providing a quick verdict and reasoning for the reader.
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/light.jpg" width="300" alt="Light Mode" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/dark.jpg" width="300" alt="Dark Mode" />
+</p>
+
 ## Features
 
 - **Real-Time News**: Fetches the latest Indian general news headlines directly from [NewsAPI](https://newsapi.org/).
