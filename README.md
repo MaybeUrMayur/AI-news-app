@@ -7,9 +7,9 @@ The app reads through the news snippets and scores them out of 100 based on thei
 ## Screenshots
 
 <p align="center">
-  <img src="assets/light.jpg" width="300" alt="Light Mode" />
+  <img src="assets/light.jpeg" width="300" alt="Light Mode" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/dark.jpg" width="300" alt="Dark Mode" />
+  <img src="assets/dark.jpeg" width="300" alt="Dark Mode" />
 </p>
 
 ## Features
